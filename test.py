@@ -1,1 +1,5 @@
-print(“Hello DICT!”)
+print("Python education”)
+#new string
+print("Hello DICT")
+
+
